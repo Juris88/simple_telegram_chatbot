@@ -2,7 +2,7 @@
 
 ## New Machine Setup
 
-### 1. Install UV (package manager)
+### 1. Open terminal and Install UV (package manager)
 MAC OS
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
