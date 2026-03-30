@@ -15,7 +15,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ### 2. Clone the repo and install dependencies
 ```bash
 git clone https://github.com/Juris88/simple_telegram_chatbot
-cd telegram_chatbot
+cd simple_telegram_chatbot
 uv sync          # creates .venv and installs all packages from uv.lock
 ```
 
